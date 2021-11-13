@@ -23,7 +23,7 @@ main {
 }
 
 .card {
-  padding: 2.8rem 2.5rem;
+  padding: 2.9rem 2.5rem;
   display: flex;
   flex-direction: column;
   align-items: flex-start;
@@ -60,7 +60,7 @@ main {
   background: #fff;
   border: 2px solid currentColor;
   color: var(--cl-dark-cyan);
-  padding: 1.2rem 2rem;
+  padding: 0.87rem 2rem;
   display: inline-block;
   border-radius: 3rem;
 }
